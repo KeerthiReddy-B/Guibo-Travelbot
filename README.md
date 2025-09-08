@@ -27,7 +27,7 @@ I leveraged tools that I use in professional AI/ML projects:
 ## 🌟 Why It Matters
 - Demonstrates how **AI + NLP + GenAI** can go beyond research and directly solve user problems.  
 - Highlights my ability to build **applied AI systems** that combine data analysis with conversational interfaces.  
-- Travel is a universal domain — this project shows how AI can make everyday experiences like trip planning **faster, smarter, and more engaging**.  
+- Travel is a universal domain - this project shows how AI can make everyday experiences like trip planning **faster, smarter, and more engaging**.  
 
 ---
 
