@@ -2,8 +2,7 @@
 
 Hi, I’m Keerthi Reddy Bokka 👋  
 
-I built this capstone project as part of my learning journey and out of pure **passion for Generative AI and Data Science**.  
-For me, projects like this are an opportunity to push boundaries, explore data deeply, and prepare for building next-generation AI-powered solutions.
+Guibo is a Travel Assistant Bot designed to help users plan trips, explore destinations, and get personalized recommendations. I built it as a capstone project to combine my passion for AI/ML with a real-world use case that touches millions of people globally.
 
 ---
 ## 🚀 Project Overview
@@ -25,12 +24,10 @@ I leveraged tools that I use in professional AI/ML projects:
 
 ---
 
-## 💡 Why I Did This
-I am deeply passionate about **Generative AI and advanced analytics**.  
-This project was a way for me to strengthen my foundations in:
-- Understanding how structured workflows evolve from raw data to insights
-- Thinking about how classical ML and analytics can be extended into **RAG pipelines and GenAI-powered systems**
-- Practicing the discipline of making projects not just functional, but **clear, reproducible, and impactful**
+## 🌟 Why It Matters
+- Demonstrates how **AI + NLP + GenAI** can go beyond research and directly solve user problems.  
+- Highlights my ability to build **applied AI systems** that combine data analysis with conversational interfaces.  
+- Travel is a universal domain — this project shows how AI can make everyday experiences like trip planning **faster, smarter, and more engaging**.  
 
 ---
 
